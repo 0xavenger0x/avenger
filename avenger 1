@@ -41,7 +41,6 @@ node_modules/
 
 # TypeScript v1 declaration files
 
-
 # TypeScript cache
 *.tsbuildinfo
 
