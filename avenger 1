@@ -76,11 +76,9 @@ node_modules/
 
 # vuepress build output
 
-
 # Serverless directories
 .serverless/
 
-# FuseBox cache
 .fusebox/
 
 # DynamoDB Local files
